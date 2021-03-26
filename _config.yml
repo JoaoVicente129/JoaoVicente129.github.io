@@ -16,9 +16,9 @@ author: Joao Vicente
 navbar-links:
   Who We Are: "aboutme"
   The Chemistry:
-    - Funcional: "https://beautifuljekyll.com"
-    - Beautifier: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Funcional: "functional"
+    - Beautifier: "beautifier"
+  How to Find us: "contacts"
 
 # --- Logo --- #
 
